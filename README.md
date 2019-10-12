@@ -15,6 +15,19 @@ I'm not accepting any commits for now because I want to avoid any concerns on an
 
 Please always scan all files that you download from this repository using your antivirus software or a good one like https://www.virustotal.com. Take the same precautions as you do with any file you download from the internet that you intend to run. Best to always run this in a virtual machine.
 
+# How to use the tools
+
+Please read the documentation under GNU Bintuils. Here's some simple tips to get you started:
+
+- Use "toolname --help" (exclude quotes) to see the options available
+- Use "toolname options OSXorIOSbinaryfile" to see data in the binary file. For example, for OS X, osx-objdump -a osx-hello1 gives you the following:
+
+osx-hello1:     file format mach-o-x86-64
+
+# OS X Folder
+
+For the OS X folder, a simple Hello World OS X binary file is stored under osx-hello1. This is used as a test OS X file to try the tools out on.
+
 License
 ----
 
