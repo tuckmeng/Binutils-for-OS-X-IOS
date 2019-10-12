@@ -11,7 +11,9 @@ I built the tools under the Cygwin environment; hence it needs the Cygwin compan
 
 I'm not accepting any commits for now because I want to avoid any concerns on any contaminated code making its way into the binaries.The binaries are not guaranteed to be fit for production use in any way. I'm only using it as a learning tool for myself and making it available to anyone who wants to learn about the internals of OS X and iOS binaries.
 
-Please always scan all files that you download from this repository using your antivirus software or a good one like https://www.virustotal.com.
+# ALWAYS SCAN ANY FILE THAT YOU DOWNLOAD FROM THIS REPOSITORY
+
+Please always scan all files that you download from this repository using your antivirus software or a good one like https://www.virustotal.com. Take the same precautions as you do with any file you download from the internet that you intend to run. Best to always run this in a virtual machine.
 
 License
 ----
